@@ -1,0 +1,14 @@
+.stats {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.stats h2 {
+  margin-top: 0;
+}
+
+.stats p {
+  margin: 5px 0;
+}

@@ -1,0 +1,25 @@
+.group-list {
+    padding: 20px;
+  }
+  
+  .group-list h2 {
+    margin-bottom: 20px;
+  }
+  
+  .group-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .group-list ul li {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .group-list ul li:hover {
+    background-color: #ddd;
+  }
+  
